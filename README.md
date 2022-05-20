@@ -1,4 +1,4 @@
-# Collection Resource
+# Collection Resource - Coleção de recursos e não recursos exclusivos
 
 ### RESOURCE:
 ````
