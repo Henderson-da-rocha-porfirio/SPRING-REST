@@ -1,4 +1,4 @@
-# Métodos HTTP
+# Verbos HTTP
 ## - Entender antes Idempotência e Safe Method
 ## ** IDEMPOTÊNCIA
 ````
