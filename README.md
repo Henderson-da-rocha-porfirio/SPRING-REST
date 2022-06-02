@@ -1,4 +1,4 @@
-# RESOURCES GET PUT POST DELETE
+# RESOURCES-CRIANDO-RESPOSTAS-400
 ## Camada de Serviço
 ### 1. É uma operação sem estado que realiza uma tarefa específica do domínio.
 ### 2. É uma tarefa de negócio.
