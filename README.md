@@ -1,4 +1,4 @@
-# HATEOAS
+# HYPERMEDIA
 ## Modelo de Maturidade de Richardson - RMM
 ## São 4 os níveis de maturidade de uma API
 ## Nível 3 - Glória do REST - 100% - Purista
