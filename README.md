@@ -1,4 +1,6 @@
-# NAMOROAPP - UTILIZANDO LOMBOK
+# @RestController - é a anotação que devemos por na controller, quando queremos construir aplicações Rest.
+
+## NAMOROAPP - UTILIZANDO LOMBOK
 ### * ENDPOINT vs API
 #### - ENDPOINT: é a URL onde seu serviço pode ser acessado por uma aplicação cliente.
 ````
