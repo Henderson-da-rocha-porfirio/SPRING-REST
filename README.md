@@ -4,7 +4,7 @@
 ````
 1. É um software que possui um conjunto de funções que intermediam o acesso as funcionalidades de algum sistema operacional, aplicação ou um serviço.
 2. De maneira simples, é uma interface para acessar funcionalidades de um outro sistema.
-3.A palavra-chave é interface. As APIs são as portas, por assim dizer, que permitem aos desenvolvedores interagirem com uma aplicação.
+3. A palavra-chave é interface. As APIs são as portas, por assim dizer, que permitem aos desenvolvedores interagirem com uma aplicação.
 ````
 ## *** API: PROVEDOR
 ````
