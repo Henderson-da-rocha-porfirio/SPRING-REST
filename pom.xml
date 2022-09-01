@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tuyo</groupId>
-	<artifactId>tuyofood</artifactId>
+	<artifactId>tuyofood-rest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TuyoFood</name>
+	<name>TuyoFood-Rest</name>
 	<description>API FOOD DELIVERY</description>
 	<properties>
 		<java.version>11</java.version>
